@@ -1,0 +1,1 @@
+java -Xms10G -Xmx10G -jar paper-1.19.3-367.jar --nogui
