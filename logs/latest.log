@@ -1,83 +1,57 @@
-[20:49:59] [ServerMain/INFO]: Building unoptimized datafixer
-[20:49:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:50:01] [ServerMain/INFO]: Loaded 7 recipes
-[20:50:01] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[20:50:01] [Server thread/INFO]: Loading properties
-[20:50:01] [Server thread/INFO]: This server is running Paper version git-Paper-367 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 51cfcc8)
-[20:50:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:50:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:50:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
-[20:50:01] [Server thread/INFO]: Default game type: SPECTATOR
-[20:50:01] [Server thread/INFO]: Generating keypair
-[20:50:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:50:01] [Server thread/INFO]: Using default channel type
-[20:50:01] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[20:50:01] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[20:50:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:50:01] [Server thread/INFO]: Preparing level "world"
-[20:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:50:02] [Server thread/INFO]: Time elapsed: 75 ms
-[20:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:50:02] [Server thread/INFO]: Time elapsed: 16 ms
-[20:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:50:02] [Server thread/INFO]: Time elapsed: 13 ms
-[20:50:02] [Server thread/INFO]: Running delayed init tasks
-[20:50:02] [Server thread/INFO]: Done (1.049s)! For help, type "help"
-[20:50:02] [Server thread/INFO]: Timings Reset
-[20:50:04] [User Authenticator #0/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[20:50:04] [Server thread/INFO]: Frey_1253 joined the game
-[20:50:04] [Server thread/INFO]: Frey_1253[/127.0.0.1:49551] logged in with entity id 162 at ([world]189.5, 74.0, -850.5)
-[21:43:49] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[21:43:49] [Server thread/INFO]: Frey_1253 left the game
-[21:46:09] [User Authenticator #1/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[21:46:09] [Server thread/INFO]: Frey_1253 joined the game
-[21:46:09] [Server thread/INFO]: Frey_1253[/127.0.0.1:62488] logged in with entity id 11525 at ([world]198.42987905103143, 74.0, -853.1256614774528)
-[22:35:22] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[22:35:22] [Server thread/INFO]: Frey_1253 left the game
-[22:40:29] [User Authenticator #2/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[22:40:29] [Server thread/INFO]: Frey_1253 joined the game
-[22:40:29] [Server thread/INFO]: Frey_1253[/127.0.0.1:59092] logged in with entity id 20281 at ([world]199.4846063057644, 74.0, -850.3402485645897)
-[22:41:25] [User Authenticator #2/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
-[22:41:25] [Server thread/INFO]: _kasaiii joined the game
-[22:41:25] [Server thread/INFO]: _kasaiii[/192.168.188.36:64713] logged in with entity id 20973 at ([world]-224.34786114160616, 62.0, -864.6272991800369)
-[22:47:15] [Server thread/INFO]: _kasaiii has made the advancement [Total Beelocation]
-[22:52:59] [Server thread/INFO]: _kasaiii lost connection: Disconnected
-[22:52:59] [Server thread/INFO]: _kasaiii left the game
-[22:53:08] [User Authenticator #3/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
-[22:53:08] [Server thread/INFO]: _kasaiii joined the game
-[22:53:08] [Server thread/INFO]: _kasaiii[/192.168.188.36:64802] logged in with entity id 27097 at ([world]73.65142799622228, 63.0, -738.124106138451)
-[23:06:44] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[23:06:44] [Server thread/INFO]: Frey_1253 left the game
-[23:06:46] [User Authenticator #4/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[23:06:46] [Server thread/INFO]: Frey_1253 joined the game
-[23:06:46] [Server thread/INFO]: Frey_1253[/127.0.0.1:59165] logged in with entity id 30072 at ([world]304.1729873685337, 72.0, -981.7815813556766)
-[23:20:24] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[23:20:24] [Server thread/INFO]: Frey_1253 left the game
-[23:20:31] [Server thread/INFO]: Stopping the server
-[23:20:32] [Server thread/INFO]: Stopping server
-[23:20:32] [Server thread/INFO]: Saving players
-[23:20:32] [Server thread/INFO]: _kasaiii lost connection: Server closed
-[23:20:32] [Server thread/INFO]: _kasaiii left the game
-[23:20:32] [Server thread/INFO]: Saving worlds
-[23:20:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saved 21 block chunks, 372 entity chunks, 0 poi chunks in world 'world' in 0,06s
-[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:20:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 62 entity chunks, 0 poi chunks in world 'world_nether' in 0,01s
-[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:20:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
-[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:20:32] [Server thread/INFO]: Flushing Chunk IO
-[23:20:32] [Server thread/INFO]: Closing Thread Pool
-[23:20:32] [Server thread/INFO]: Closing Server
+[23:29:54] [ServerMain/INFO]: Building unoptimized datafixer
+[23:29:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:29:56] [ServerMain/INFO]: Loaded 7 recipes
+[23:29:56] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[23:29:56] [Server thread/INFO]: Loading properties
+[23:29:56] [Server thread/INFO]: This server is running Paper version git-Paper-367 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 51cfcc8)
+[23:29:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:29:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:29:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[23:29:56] [Server thread/INFO]: Default game type: SPECTATOR
+[23:29:56] [Server thread/INFO]: Generating keypair
+[23:29:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:29:57] [Server thread/INFO]: Using default channel type
+[23:29:57] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[23:29:57] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[23:29:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:29:57] [Server thread/INFO]: Preparing level "world"
+[23:29:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:29:57] [Server thread/INFO]: Time elapsed: 68 ms
+[23:29:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:29:57] [Server thread/INFO]: Time elapsed: 17 ms
+[23:29:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:29:57] [Server thread/INFO]: Time elapsed: 15 ms
+[23:29:57] [Server thread/INFO]: Running delayed init tasks
+[23:29:57] [Server thread/INFO]: Done (1.012s)! For help, type "help"
+[23:29:57] [Server thread/INFO]: Timings Reset
+[23:31:44] [User Authenticator #0/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
+[23:31:44] [Server thread/INFO]: Frey_1253 joined the game
+[23:31:44] [Server thread/INFO]: Frey_1253[/127.0.0.1:57268] logged in with entity id 162 at ([world]326.4253823005134, 71.9375, -1000.0129336906778)
+[23:31:48] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
+[23:31:48] [Server thread/INFO]: Frey_1253 left the game
+[23:32:03] [Server thread/INFO]: Stopping the server
+[23:32:03] [Server thread/INFO]: Stopping server
+[23:32:03] [Server thread/INFO]: Saving players
+[23:32:03] [Server thread/INFO]: Saving worlds
+[23:32:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:32:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:32:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:32:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:32:03] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 0,51s
+[23:32:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:32:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0,37s
+[23:32:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:32:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:32:04] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0,07s
+[23:32:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:32:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:32:04] [Server thread/INFO]: Flushing Chunk IO
+[23:32:04] [Server thread/INFO]: Closing Thread Pool
+[23:32:04] [Server thread/INFO]: Closing Server
