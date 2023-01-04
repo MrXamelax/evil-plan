@@ -1,137 +1,83 @@
-[12:25:02] [ServerMain/INFO]: Building unoptimized datafixer
-[12:25:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:25:04] [ServerMain/INFO]: Loaded 7 recipes
-[12:25:05] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[12:25:05] [Server thread/INFO]: Loading properties
-[12:25:05] [Server thread/INFO]: This server is running Paper version git-Paper-367 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 51cfcc8)
-[12:25:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:25:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:25:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
-[12:25:05] [Server thread/INFO]: Default game type: SPECTATOR
-[12:25:05] [Server thread/INFO]: Generating keypair
-[12:25:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:25:05] [Server thread/INFO]: Using default channel type
-[12:25:05] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[12:25:05] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[12:25:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:25:05] [Server thread/INFO]: Preparing level "world"
-[12:25:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:25:06] [Server thread/INFO]: Time elapsed: 58 ms
-[12:25:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:25:06] [Server thread/INFO]: Time elapsed: 19 ms
-[12:25:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:25:06] [Server thread/INFO]: Time elapsed: 13 ms
-[12:25:06] [Server thread/INFO]: Running delayed init tasks
-[12:25:06] [Server thread/INFO]: Done (0.961s)! For help, type "help"
-[12:25:06] [Server thread/INFO]: Timings Reset
-[12:25:11] [User Authenticator #0/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[12:25:11] [Server thread/INFO]: Frey_1253 joined the game
-[12:25:11] [Server thread/INFO]: Frey_1253[/127.0.0.1:61483] logged in with entity id 149 at ([world_nether]227.5249713619635, 39.0, -56.925741579702006)
-[12:28:44] [Server thread/INFO]: Frey_1253 has made the advancement [A Terrible Fortress]
-[12:30:18] [Server thread/INFO]: Frey_1253 has made the advancement [Into Fire]
-[12:42:14] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[12:42:14] [Server thread/INFO]: Frey_1253 left the game
-[12:49:14] [User Authenticator #1/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[12:49:14] [Server thread/INFO]: Frey_1253 joined the game
-[12:49:14] [Server thread/INFO]: Frey_1253[/127.0.0.1:61579] logged in with entity id 2201 at ([world_nether]531.356504705031, 65.0, 188.52054304135123)
-[13:11:08] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:11:08] [Server thread/INFO]: Frey_1253 left the game
-[13:12:05] [User Authenticator #2/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:12:05] [Server thread/INFO]: Frey_1253 joined the game
-[13:12:05] [Server thread/INFO]: Frey_1253[/127.0.0.1:61642] logged in with entity id 5586 at ([world]318.88335373656423, 73.0, -1031.1566420569675)
-[13:24:24] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:24:24] [Server thread/INFO]: Frey_1253 left the game
-[13:25:02] [User Authenticator #3/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:25:02] [Server thread/INFO]: Frey_1253 joined the game
-[13:25:02] [Server thread/INFO]: Frey_1253[/127.0.0.1:61667] logged in with entity id 8240 at ([world]324.5574900771857, 73.0, -1012.7047408348645)
-[13:25:51] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:25:51] [Server thread/INFO]: Frey_1253 left the game
-[13:26:37] [User Authenticator #4/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:26:37] [Server thread/INFO]: Frey_1253 joined the game
-[13:26:37] [Server thread/INFO]: Frey_1253[/127.0.0.1:61675] logged in with entity id 8640 at ([world]331.0879662785523, 73.0, -1035.4052773242852)
-[13:28:10] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:28:10] [Server thread/INFO]: Frey_1253 left the game
-[13:28:29] [User Authenticator #5/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:28:29] [Server thread/INFO]: Frey_1253 joined the game
-[13:28:29] [Server thread/INFO]: Frey_1253[/127.0.0.1:61684] logged in with entity id 9146 at ([world]327.6710236647531, 73.0, -1005.3631489628646)
-[13:29:10] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:29:10] [Server thread/INFO]: Frey_1253 left the game
-[13:29:25] [User Authenticator #5/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:29:25] [Server thread/INFO]: Frey_1253 joined the game
-[13:29:25] [Server thread/INFO]: Frey_1253[/127.0.0.1:61690] logged in with entity id 9566 at ([world]322.4009644485464, 73.0, -991.3356153859671)
-[13:29:39] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:29:39] [Server thread/INFO]: Frey_1253 left the game
-[13:29:47] [User Authenticator #5/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:29:47] [Server thread/INFO]: Frey_1253 joined the game
-[13:29:47] [Server thread/INFO]: Frey_1253[/127.0.0.1:61699] logged in with entity id 9906 at ([world]321.70973323266276, 73.0, -979.7477107154383)
-[13:29:49] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:29:49] [Server thread/INFO]: Frey_1253 left the game
-[13:29:55] [User Authenticator #5/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:29:55] [Server thread/INFO]: Frey_1253 joined the game
-[13:29:55] [Server thread/INFO]: Frey_1253[/127.0.0.1:61709] logged in with entity id 10246 at ([world]321.70973323266276, 73.0, -979.7477107154383)
-[13:30:44] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:30:44] [Server thread/INFO]: Frey_1253 left the game
-[13:30:47] [User Authenticator #5/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:30:47] [Server thread/INFO]: Frey_1253 joined the game
-[13:30:47] [Server thread/INFO]: Frey_1253[/127.0.0.1:61716] logged in with entity id 10670 at ([world]307.12627144595047, 73.0, -978.7302359553721)
-[13:33:11] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[13:33:11] [Server thread/INFO]: Frey_1253 left the game
-[13:34:46] [User Authenticator #6/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[13:34:46] [Server thread/INFO]: Frey_1253 joined the game
-[13:34:46] [Server thread/INFO]: Frey_1253[/127.0.0.1:61736] logged in with entity id 11302 at ([world]315.72860139143745, 73.0, -976.5959756759787)
-[13:50:47] [Server thread/INFO]: Frey_1253 has made the advancement [A Seedy Place]
-[14:00:01] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[14:00:01] [Server thread/INFO]: Frey_1253 left the game
-[14:03:23] [User Authenticator #7/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[14:03:23] [Server thread/INFO]: Frey_1253 joined the game
-[14:03:23] [Server thread/INFO]: Frey_1253[/127.0.0.1:61810] logged in with entity id 16267 at ([world]193.24913578582223, 74.0, -851.955161292154)
-[15:27:47] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[15:27:47] [Server thread/INFO]: Frey_1253 left the game
-[15:27:49] [User Authenticator #8/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[15:27:49] [Server thread/INFO]: Frey_1253 joined the game
-[15:27:49] [Server thread/INFO]: Frey_1253[/127.0.0.1:61313] logged in with entity id 28163 at ([world]193.4690016777717, 74.0, -854.7624999880791)
-[15:36:40] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[15:36:40] [Server thread/INFO]: Frey_1253 left the game
-[15:36:43] [User Authenticator #9/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[15:36:43] [Server thread/INFO]: Frey_1253 joined the game
-[15:36:43] [Server thread/INFO]: Frey_1253[/127.0.0.1:61337] logged in with entity id 30106 at ([world]198.2648593773332, 74.0, -847.2201858410215)
-[16:13:43] [User Authenticator #10/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
-[16:13:43] [Server thread/INFO]: _kasaiii joined the game
-[16:13:43] [Server thread/INFO]: _kasaiii[/192.168.188.36:49457] logged in with entity id 36381 at ([world]199.0795314580902, 74.0, -850.7322149576212)
-[16:21:57] [Server thread/INFO]: _kasaiii has made the advancement [What a Deal!]
-[16:33:01] [Server thread/INFO]: _kasaiii lost connection: Disconnected
-[16:33:01] [Server thread/INFO]: _kasaiii left the game
-[16:34:15] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[16:34:15] [Server thread/INFO]: Frey_1253 left the game
-[16:34:19] [User Authenticator #11/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
-[16:34:19] [Server thread/INFO]: _kasaiii joined the game
-[16:34:19] [Server thread/INFO]: _kasaiii[/192.168.188.36:49641] logged in with entity id 44063 at ([world]-207.96536744336163, 64.0, -891.7072879102768)
-[16:48:11] [Server thread/INFO]: _kasaiii was slain by Spider
-[17:05:16] [Server thread/INFO]: _kasaiii lost connection: Disconnected
-[17:05:16] [Server thread/INFO]: _kasaiii left the game
-[17:25:45] [Server thread/INFO]: Stopping the server
-[17:25:45] [Server thread/INFO]: Stopping server
-[17:25:45] [Server thread/INFO]: Saving players
-[17:25:45] [Server thread/INFO]: Saving worlds
-[17:25:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 47 entity chunks, 0 poi chunks in world 'world' in 0,00s
-[17:25:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:25:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Saved 135 block chunks, 102 entity chunks, 0 poi chunks in world 'world_nether' in 0,07s
-[17:25:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:25:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:25:45] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,01s
-[17:25:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:25:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:25:45] [Server thread/INFO]: Flushing Chunk IO
-[17:25:45] [Server thread/INFO]: Closing Thread Pool
-[17:25:45] [Server thread/INFO]: Closing Server
+[20:49:59] [ServerMain/INFO]: Building unoptimized datafixer
+[20:49:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:50:01] [ServerMain/INFO]: Loaded 7 recipes
+[20:50:01] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[20:50:01] [Server thread/INFO]: Loading properties
+[20:50:01] [Server thread/INFO]: This server is running Paper version git-Paper-367 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 51cfcc8)
+[20:50:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:50:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:50:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[20:50:01] [Server thread/INFO]: Default game type: SPECTATOR
+[20:50:01] [Server thread/INFO]: Generating keypair
+[20:50:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:50:01] [Server thread/INFO]: Using default channel type
+[20:50:01] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[20:50:01] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:50:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:50:01] [Server thread/INFO]: Preparing level "world"
+[20:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:50:02] [Server thread/INFO]: Time elapsed: 75 ms
+[20:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:50:02] [Server thread/INFO]: Time elapsed: 16 ms
+[20:50:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:50:02] [Server thread/INFO]: Time elapsed: 13 ms
+[20:50:02] [Server thread/INFO]: Running delayed init tasks
+[20:50:02] [Server thread/INFO]: Done (1.049s)! For help, type "help"
+[20:50:02] [Server thread/INFO]: Timings Reset
+[20:50:04] [User Authenticator #0/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
+[20:50:04] [Server thread/INFO]: Frey_1253 joined the game
+[20:50:04] [Server thread/INFO]: Frey_1253[/127.0.0.1:49551] logged in with entity id 162 at ([world]189.5, 74.0, -850.5)
+[21:43:49] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
+[21:43:49] [Server thread/INFO]: Frey_1253 left the game
+[21:46:09] [User Authenticator #1/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
+[21:46:09] [Server thread/INFO]: Frey_1253 joined the game
+[21:46:09] [Server thread/INFO]: Frey_1253[/127.0.0.1:62488] logged in with entity id 11525 at ([world]198.42987905103143, 74.0, -853.1256614774528)
+[22:35:22] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
+[22:35:22] [Server thread/INFO]: Frey_1253 left the game
+[22:40:29] [User Authenticator #2/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
+[22:40:29] [Server thread/INFO]: Frey_1253 joined the game
+[22:40:29] [Server thread/INFO]: Frey_1253[/127.0.0.1:59092] logged in with entity id 20281 at ([world]199.4846063057644, 74.0, -850.3402485645897)
+[22:41:25] [User Authenticator #2/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
+[22:41:25] [Server thread/INFO]: _kasaiii joined the game
+[22:41:25] [Server thread/INFO]: _kasaiii[/192.168.188.36:64713] logged in with entity id 20973 at ([world]-224.34786114160616, 62.0, -864.6272991800369)
+[22:47:15] [Server thread/INFO]: _kasaiii has made the advancement [Total Beelocation]
+[22:52:59] [Server thread/INFO]: _kasaiii lost connection: Disconnected
+[22:52:59] [Server thread/INFO]: _kasaiii left the game
+[22:53:08] [User Authenticator #3/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
+[22:53:08] [Server thread/INFO]: _kasaiii joined the game
+[22:53:08] [Server thread/INFO]: _kasaiii[/192.168.188.36:64802] logged in with entity id 27097 at ([world]73.65142799622228, 63.0, -738.124106138451)
+[23:06:44] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
+[23:06:44] [Server thread/INFO]: Frey_1253 left the game
+[23:06:46] [User Authenticator #4/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
+[23:06:46] [Server thread/INFO]: Frey_1253 joined the game
+[23:06:46] [Server thread/INFO]: Frey_1253[/127.0.0.1:59165] logged in with entity id 30072 at ([world]304.1729873685337, 72.0, -981.7815813556766)
+[23:20:24] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
+[23:20:24] [Server thread/INFO]: Frey_1253 left the game
+[23:20:31] [Server thread/INFO]: Stopping the server
+[23:20:32] [Server thread/INFO]: Stopping server
+[23:20:32] [Server thread/INFO]: Saving players
+[23:20:32] [Server thread/INFO]: _kasaiii lost connection: Server closed
+[23:20:32] [Server thread/INFO]: _kasaiii left the game
+[23:20:32] [Server thread/INFO]: Saving worlds
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saved 21 block chunks, 372 entity chunks, 0 poi chunks in world 'world' in 0,06s
+[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 62 entity chunks, 0 poi chunks in world 'world_nether' in 0,01s
+[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:20:32] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
+[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:20:32] [Server thread/INFO]: Flushing Chunk IO
+[23:20:32] [Server thread/INFO]: Closing Thread Pool
+[23:20:32] [Server thread/INFO]: Closing Server

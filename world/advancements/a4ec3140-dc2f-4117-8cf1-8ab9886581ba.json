@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-01-03 00:46:48 +0100"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-01-04 23:00:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-01-02 23:20:35 +0100"
@@ -353,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2023-01-04 23:00:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-01-03 00:02:07 +0100",
@@ -379,6 +397,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2023-01-02 22:23:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-01-04 23:00:37 +0100"
     },
     "done": true
   },
@@ -415,6 +439,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-01-02 22:23:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
     },
     "done": true
   },
@@ -508,6 +538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2023-01-02 22:20:51 +0100"
@@ -520,9 +556,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2023-01-02 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2023-01-04 23:00:41 +0100"
     },
     "done": true
   },
@@ -532,7 +580,8 @@
       "minecraft:frog": "2023-01-02 23:59:39 +0100",
       "minecraft:sheep": "2023-01-02 22:32:59 +0100",
       "minecraft:cow": "2023-01-02 22:58:20 +0100",
-      "minecraft:chicken": "2023-01-02 22:36:23 +0100"
+      "minecraft:chicken": "2023-01-02 22:36:23 +0100",
+      "minecraft:wolf": "2023-01-04 22:56:54 +0100"
     },
     "done": false
   },
@@ -835,7 +884,8 @@
       "minecraft:skeleton": "2023-01-02 22:49:07 +0100",
       "minecraft:spider": "2023-01-02 22:34:23 +0100",
       "minecraft:slime": "2023-01-02 23:33:12 +0100",
-      "minecraft:zombie": "2023-01-02 21:56:30 +0100"
+      "minecraft:zombie": "2023-01-02 21:56:30 +0100",
+      "minecraft:drowned": "2023-01-04 23:18:21 +0100"
     },
     "done": false
   },
@@ -890,6 +940,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-01-02 22:53:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-01-04 23:00:37 +0100"
     },
     "done": true
   },
@@ -1010,6 +1066,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-02 23:23:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
     },
     "done": true
   },
@@ -1277,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2023-01-02 22:54:09 +0100"
@@ -1307,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-01-02 22:09:38 +0100"
@@ -1322,6 +1396,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-01-02 22:59:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
     },
     "done": true
   },
@@ -1346,6 +1426,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-01-02 22:23:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
     },
     "done": true
   },
@@ -1400,6 +1486,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2023-01-02 22:09:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-01-04 23:00:37 +0100"
     },
     "done": true
   },
@@ -1578,6 +1670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2023-01-04 23:00:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2023-01-02 22:39:31 +0100"
@@ -1617,6 +1715,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2023-01-02 22:03:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2023-01-04 22:47:15 +0100"
     },
     "done": true
   },
@@ -1703,6 +1807,12 @@
       "minecraft:soul_sand_valley": "2023-01-03 00:46:48 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2023-01-04 23:00:43 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
