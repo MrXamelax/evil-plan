@@ -2138,6 +2138,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-01-08 14:58:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2023-01-04 23:00:43 +0100"
