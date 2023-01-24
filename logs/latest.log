@@ -1,75 +1,67 @@
-[00:02:13] [Server thread/INFO]: MrXamelax has made the advancement [What a Deal!]
-[00:02:57] [Server thread/INFO]: _kasaiii lost connection: Disconnected
-[00:02:57] [Server thread/INFO]: _kasaiii left the game
-[00:02:57] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[00:02:57] [Server thread/INFO]: Frey_1253 left the game
-[00:03:06] [User Authenticator #6/INFO]: UUID of player _kasaiii is a4ec3140-dc2f-4117-8cf1-8ab9886581ba
-[00:03:06] [Server thread/INFO]: _kasaiii joined the game
-[00:03:06] [Server thread/INFO]: _kasaiii[/25.77.9.58:51818] logged in with entity id 20247 at ([world]-219.0871163672993, 63.9375, -937.3375663757525)
-[00:03:06] [User Authenticator #6/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[00:03:06] [Server thread/INFO]: Frey_1253 joined the game
-[00:03:06] [Server thread/INFO]: Frey_1253[/25.77.9.57:54098] logged in with entity id 20248 at ([world]-109.4109878405898, 79.0, -949.3400387029844)
-[00:04:01] [Server thread/INFO]: MrXamelax has made the advancement [Voluntary Exile]
-[00:07:20] [Server thread/INFO]: MrXamelax has completed the challenge [Hero of the Village]
-[00:07:45] [Server thread/INFO]: MrXamelax issued server command: /difficulty
-[00:09:31] [Server thread/WARN]: Frey_1253 moved wrongly!
-[00:09:53] [Server thread/INFO]: The difficulty is Normal
-[00:09:56] [Server thread/INFO]: The difficulty has been set to Hard
-[00:10:02] [Server thread/INFO]: MrXamelax issued server command: /difficulty
-[00:14:29] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[00:14:29] [Server thread/INFO]: Frey_1253 left the game
-[00:14:38] [User Authenticator #7/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[00:14:38] [Server thread/INFO]: Frey_1253 joined the game
-[00:14:38] [Server thread/INFO]: Frey_1253[/25.77.9.57:61409] logged in with entity id 40835 at ([world]-1899.63715977153, 185.61039171803694, 4212.539706717554)
-[00:21:45] [Server thread/INFO]: Frey_1253 was slain by Iron Golem
-[00:21:53] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[00:21:53] [Server thread/INFO]: Frey_1253 left the game
-[00:22:01] [User Authenticator #8/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
-[00:22:01] [Server thread/INFO]: Frey_1253 joined the game
-[00:22:01] [Server thread/INFO]: Frey_1253[/25.77.9.57:61427] logged in with entity id 70810 at ([world]251.5, 67.0, -836.5)
-[00:28:14] [Server thread/INFO]: MrXamelax lost connection: Disconnected
-[00:28:14] [Server thread/INFO]: MrXamelax left the game
-[00:29:28] [Server thread/INFO]: Villager EntityVillager['Villager'/92544, uuid='23fa8085-fbd5-4938-9e90-ca304b5b1689', l='ServerLevel[world]', x=-4866.37, y=70.50, z=5553.28, cpos=[-305, 347], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[00:29:52] [User Authenticator #9/INFO]: UUID of player MrXamelax is f67dc447-9207-458c-968b-2309a7bfbac0
-[00:29:52] [Server thread/INFO]: MrXamelax joined the game
-[00:29:52] [Server thread/INFO]: MrXamelax[/127.0.0.1:56170] logged in with entity id 95892 at ([world]194.98898892122642, 74.0, -853.8011646824904)
-[00:34:24] [Server thread/INFO]: MrXamelax issued server command: /difficulty
-[00:34:42] [Server thread/INFO]: Frey_1253 lost connection: Disconnected
-[00:34:42] [Server thread/INFO]: Frey_1253 left the game
-[00:35:18] [Server thread/INFO]: MrXamelax lost connection: Disconnected
-[00:35:18] [Server thread/INFO]: MrXamelax left the game
-[00:39:41] [Server thread/INFO]: _kasaiii lost connection: Disconnected
-[00:39:41] [Server thread/INFO]: _kasaiii left the game
-[01:24:44] [User Authenticator #10/INFO]: UUID of player MrXamelax is f67dc447-9207-458c-968b-2309a7bfbac0
-[01:24:44] [Server thread/INFO]: MrXamelax joined the game
-[01:24:44] [Server thread/INFO]: MrXamelax[/127.0.0.1:64699] logged in with entity id 101403 at ([world]193.07889131527918, 74.0, -852.514183994282)
-[01:24:51] [Server thread/INFO]: MrXamelax issued server command: /gamemode creative
-[01:24:51] [Server thread/INFO]: [MrXamelax: Set own game mode to Creative Mode]
-[01:25:51] [Server thread/INFO]: MrXamelax lost connection: Disconnected
-[01:25:51] [Server thread/INFO]: MrXamelax left the game
-[02:11:30] [Server thread/INFO]: Stopping the server
-[02:11:30] [Server thread/INFO]: Stopping server
-[02:11:30] [Server thread/INFO]: Saving players
-[02:11:30] [Server thread/INFO]: Saving worlds
-[02:11:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:11:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:11:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:11:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:11:30] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 114 entity chunks, 0 poi chunks in world 'world' in 0,01s
-[02:11:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:11:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 67 entity chunks, 0 poi chunks in world 'world_nether' in 0,01s
-[02:11:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:11:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:11:55] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 42 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
-[02:11:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:11:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:11:56] [Server thread/INFO]: Flushing Chunk IO
-[02:11:56] [Server thread/INFO]: Closing Thread Pool
-[02:11:56] [Server thread/INFO]: Closing Server
+[17:31:56] [ServerMain/INFO]: Building unoptimized datafixer
+[17:31:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:31:59] [ServerMain/INFO]: Loaded 7 recipes
+[17:31:59] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[17:31:59] [Server thread/INFO]: Loading properties
+[17:31:59] [Server thread/INFO]: This server is running Paper version git-Paper-367 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 51cfcc8)
+[17:31:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:31:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:31:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[17:31:59] [Server thread/INFO]: Default game type: SURVIVAL
+[17:31:59] [Server thread/INFO]: Generating keypair
+[17:31:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:31:59] [Server thread/INFO]: Using default channel type
+[17:31:59] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:31:59] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:32:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:32:00] [Server thread/INFO]: Preparing level "world"
+[17:32:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:32:00] [Server thread/INFO]: Time elapsed: 61 ms
+[17:32:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:32:00] [Server thread/INFO]: Time elapsed: 18 ms
+[17:32:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:32:00] [Server thread/INFO]: Time elapsed: 16 ms
+[17:32:00] [Server thread/INFO]: Running delayed init tasks
+[17:32:00] [Server thread/INFO]: Done (1.025s)! For help, type "help"
+[17:32:00] [Server thread/INFO]: Timings Reset
+[17:32:02] [User Authenticator #0/INFO]: UUID of player Frey_1253 is 99a6e4ce-19a0-48ab-99cb-84825787bbe1
+[17:32:02] [Server thread/INFO]: Frey_1253 joined the game
+[17:32:02] [Server thread/INFO]: Frey_1253[/[0:0:0:0:0:0:0:1]:51405] logged in with entity id 231 at ([world]-5625.426493018265, 63.0, 6694.57940817472)
+[17:34:57] [Server thread/INFO]: Villager EntityVillager['Villager'/9520, uuid='7317c76b-7f3c-4242-b5cb-13fa2ebb1ddd', l='ServerLevel[world]', x=-5627.72, y=66.56, z=4183.37, cpos=[-352, 261], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[17:34:58] [Server thread/INFO]: Villager EntityVillager['Villager'/9576, uuid='0744740a-b60e-4140-8129-22015033f3a8', l='ServerLevel[world]', x=-5639.37, y=69.56, z=4154.28, cpos=[-353, 259], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[17:38:48] [Server thread/INFO]: Villager EntityVillager['Farmer'/7612, uuid='cbc4dc31-d50a-405d-aa9e-879e3536182f', l='ServerLevel[world]', x=-5790.39, y=70.75, z=4457.70, cpos=[-362, 278], tl=5229, v=true] died, message: 'Farmer was slain by Vindicator'
+[17:42:22] [Server thread/INFO]: Villager EntityVillager['Librarian'/7646, uuid='b778f377-8de2-40b6-bd77-ac2c7aac21ef', l='ServerLevel[world]', x=-5796.58, y=67.75, z=4463.30, cpos=[-363, 278], tl=9501, v=true] died, message: 'Librarian was slain by Vex'
+[17:44:16] [Server thread/INFO]: Villager EntityVillager['Villager'/7734, uuid='b3600ced-8f5c-45cf-b3a4-05e44979738a', l='ServerLevel[world]', x=-5799.38, y=69.56, z=4460.38, cpos=[-363, 278], tl=11774, v=true] died, message: 'Villager was slain by Vindicator'
+[17:44:18] [Server thread/INFO]: Villager EntityVillager['Villager'/8280, uuid='8be274c6-a2da-4b35-a586-10eb5fc81e80', l='ServerLevel[world]', x=-5796.50, y=69.00, z=4459.38, cpos=[-363, 278], tl=11754, v=true] died, message: 'Villager was slain by Vindicator'
+[17:44:19] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/7739, uuid='175d6839-b91f-47a8-9b1b-cb1fb6dd6463', l='ServerLevel[world]', x=-5798.12, y=67.00, z=4463.50, cpos=[-363, 278], tl=11840, v=true] died, message: 'Leatherworker was slain by Vindicator'
+[17:44:31] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/8067, uuid='646788f8-db96-43fa-a886-0c0762ca4319', l='ServerLevel[world]', x=-5787.02, y=69.00, z=4462.15, cpos=[-362, 278], tl=12060, v=true] died, message: 'Leatherworker was slain by Ravager'
+[17:44:34] [Server thread/INFO]: Villager EntityVillager['Villager'/7733, uuid='500c51c9-6cc9-4fc8-b8fc-122074746f6e', l='ServerLevel[world]', x=-5798.33, y=68.00, z=4462.45, cpos=[-363, 278], tl=12150, v=true] died, message: 'Villager was slain by Vindicator'
+[19:48:07] [Server thread/WARN]: Frey_1253 moved wrongly!
+[19:57:04] [Server thread/INFO]: Stopping the server
+[19:57:04] [Server thread/INFO]: Stopping server
+[19:57:04] [Server thread/INFO]: Saving players
+[19:57:04] [Server thread/INFO]: Frey_1253 lost connection: Server closed
+[19:57:04] [Server thread/INFO]: Frey_1253 left the game
+[19:57:05] [Server thread/INFO]: Saving worlds
+[19:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 80 block chunks, 647 entity chunks, 0 poi chunks in world 'world' in 0,14s
+[19:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 70 entity chunks, 0 poi chunks in world 'world_nether' in 0,02s
+[19:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 43 entity chunks, 0 poi chunks in world 'world_the_end' in 0,01s
+[19:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:57:05] [Server thread/INFO]: Flushing Chunk IO
+[19:57:05] [Server thread/INFO]: Closing Thread Pool
+[19:57:05] [Server thread/INFO]: Closing Server

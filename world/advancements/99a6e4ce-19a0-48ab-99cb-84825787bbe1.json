@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-01-24 18:16:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-01-02 22:03:35 +0100"
@@ -3786,6 +3792,7 @@
       "golden_apple": "2023-01-06 14:42:55 +0100",
       "glow_berries": "2023-01-02 23:45:37 +0100",
       "salmon": "2023-01-02 22:18:02 +0100",
+      "golden_carrot": "2023-01-24 18:18:19 +0100",
       "cooked_chicken": "2023-01-02 23:58:42 +0100",
       "cod": "2023-01-02 22:39:20 +0100",
       "cooked_salmon": "2023-01-02 22:20:45 +0100"
@@ -4023,6 +4030,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2023-01-03 00:52:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-01-24 18:16:23 +0100"
     },
     "done": true
   },
@@ -4533,6 +4546,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2023-01-07 23:18:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-01-24 18:16:23 +0100"
     },
     "done": true
   },
